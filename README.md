@@ -22,11 +22,8 @@ cd backend
 # npm 패키지 설치
 npm install
 
-# index.ts 를 index.js 로 변환
-npx tsc -p tsconfig.json
-
 # index.js 실행
-node index.js
+npm run start:dev
 ```
 
 ### Reference
