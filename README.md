@@ -32,5 +32,5 @@ npm run start:dev
 - [vite 시작하기](https://ko.vite.dev/guide)
 
 ##### backend
-- [https://fastify.dev/docs/latest/Reference/TypeScript](https://fastify.dev/docs/latest/Reference/TypeScript)
+- [https://docs.nestjs.com/first-steps](https://docs.nestjs.com/first-steps)
 - [https://duckdb.org/docs/api/nodejs/overview.html](https://duckdb.org/docs/api/nodejs/overview.html)
